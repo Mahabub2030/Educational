@@ -39,7 +39,7 @@ resultSearchForm.onsubmit = (e) => {
         <img src="https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif?fit=450%2C250&ssl=1" />
       `;
       setInterval(() => {
-        window.location.href = "/result.html";
+        window.location.href = "/Filnal Semeter.html";
       }, 3000);
     } else {
       alert("No result found");
